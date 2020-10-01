@@ -1,5 +1,5 @@
 ========
-imagebot
+imagebot - An Amazing Project
 ========
 
 This bot (image scraper) crawls a given url(s) and downloads all the images.
